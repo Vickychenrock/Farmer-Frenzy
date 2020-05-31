@@ -1,0 +1,126 @@
+Initialize engine version: 4.7.1f1 (68064779abd0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 15.067362 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 2.573913 ms (FindLiveObjects: 0.065391 ms CreateObjectMapping: 0.028289 ms MarkObjects: 0.385391 ms  DeleteObjects: 0.093681 ms)
+
+Platform assembly: C:\Users\laure\Desktop\Video Game Maker 2017\space defender_Data\Managed\Boo.Lang.dll (this message is harmless)
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.516985 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 469 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 2.444057 ms (FindLiveObjects: 0.028289 ms CreateObjectMapping: 0.061217 ms MarkObjects: 0.141449 ms  DeleteObjects: 1.495652 ms)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 4.529623 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1067 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 9.001740 ms (FindLiveObjects: 0.134028 ms CreateObjectMapping: 0.436405 ms MarkObjects: 0.392811 ms  DeleteObjects: 6.896695 ms)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 2.136579 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 903 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 13.717333 ms (FindLiveObjects: 0.156753 ms CreateObjectMapping: 0.304231 ms MarkObjects: 0.392811 ms  DeleteObjects: 10.810898 ms)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hit Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
